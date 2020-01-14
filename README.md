@@ -2,7 +2,7 @@ the project has made in laravel <br>
 if you download the project you have to start server with: <br>
 php artisan serve <br>
 and go in your browser to url http://localhost:8000<br>
-the registration and login are in http://localhost:8000/register,http://localhost:8000/login<br>
+the registration and login are in http://localhost:8000/register, http://localhost:8000/login<br>
 after upload the file of hands you car run http://localhost:8000/analize<br>
 <br>
 <br>
